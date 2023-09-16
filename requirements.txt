@@ -3,3 +3,4 @@ line-bot-sdk==1.5.0
 beautifulsoup4==4.7.
 soupsieve==1.6.1
 urllib3==1.24.1
+gunicorn==20.0.4
